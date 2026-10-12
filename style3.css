@@ -1,0 +1,13 @@
+img{
+    width: 750px;
+    max-width: 1000px;
+    height: auto;
+    border-radius: 50px;
+    box-shadow: 0 8px 20px black;
+    margin: auto;
+    transition: transform 0.3s ease;
+    display: flex;
+}
+img:hover{
+    transform: scale(1.0s);
+}
